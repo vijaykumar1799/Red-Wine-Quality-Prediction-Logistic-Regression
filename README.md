@@ -10,4 +10,4 @@
 - Algorithm used: Since this is the case of a binary classification, Logistic regression is used and the weights are optmized using the 
   Batch Gradient Descent Algorithm.
   
-- Results: As results, the logistic regression model, predicts correctly with an accuracy of 86.87% and RMSE of 0.36.
+- Results: As results, the logistic regression model predicts correctly with an accuracy of 86.87% on the test set and RMSE of 0.36.
