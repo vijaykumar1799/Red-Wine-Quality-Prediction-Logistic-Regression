@@ -1,1 +1,1 @@
-# Red-Wine-Quality-Prediction-Logistic-Regression-Neural-Network
+# Red-Wine-Quality-Prediction-Logistic-Regression
